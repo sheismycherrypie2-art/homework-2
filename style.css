@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background: #f2f5fb;
+  color: #1d2c46;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.page {
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 24px;
+  margin: 0 0 20px;
+  border: 1px solid #ccd7e7;
+  border-radius: 12px;
+  background: white;
+}
+
+.form-card {
+  margin-top: 24px;
+}
+
+.result-card {
+  background: #eaf4ff;
+}
+
+.service {
+  display: block;
+  margin: 12px 0;
+}
+
+.error {
+  padding: 12px;
+  border: 1px solid #cc4d4d;
+  border-radius: 6px;
+  color: #9d2222;
+  background: #fff0f0;
+}
+
+.json-output {
+  padding: 16px;
+  border: 1px solid #ccd7e7;
+  border-radius: 8px;
+  background: #fff;
+  color: #1d2c46;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+button {
+  padding: 10px 16px;
+  margin-top: 12px;
+  border: 1px solid #2058a5;
+  border-radius: 6px;
+  background: #2469c3;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+h1 {
+  margin: 0 0 12px;
+}
+
+h2 {
+  margin-top: 0;
+}
